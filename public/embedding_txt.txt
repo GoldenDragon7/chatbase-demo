@@ -1,0 +1,150 @@
+Introduction
+At the beginning of the second century ad, in the reign of the
+emperor Trajan, a group of young men could be found studying
+philosophy at a boarding school in Nicopolis, a Roman colony in
+Epirus (north-west Greece). They were students of Epictetus. In a
+prefatory letter one such pupil, Arrian by name (c. AD 86-160), takes
+credit for committing a sizeable number of Epictetus’ lessons to
+print, thereby ensuring their survival. These are the Discourses.
+Arrian is also credited with preparing a digest of his master’s
+thought: the Manual or (in Greek) Enchiridion. A modest number of
+fragments attributed to Epictetus have also come down to us (some
+of them derived from Discourses otherwise lost, as only four books
+of the eight that Arrian originally published are extant).
+Besides being an uncommonly diligent stenographer, Arrian was
+an author in his own right, best known for his biography of
+Alexander the Great. He was also a man of the world, a Roman
+consul and later legate to the Roman province of Cappadocia.
+Taking into account his own literary aspirations, and the formidable
+challenge posed by transcribing Epictetus’ lectures ‘live’, i.e. as they
+were being delivered, some have questioned whether his opening
+letter is completely trustworthy in characterizing the collection as
+nothing less than a verbatim record of what the philosopher said,
+inside and outside the classroom. Most students of the Discourses
+incline to the view that, in the process of e ecting the transition of
+Epictetus’ lectures to print, Arrian probably permitted himself a few
+editorial changes. Establishing the dramatic context of the
+Discourses, in imitation of Plato’s Socratic dialogues, may be one of
+his contributions. But any alterations or ‘improvements’ he made to
+the text are unlikely to have been extensive. The books of history
+and geography that Arrian wrote later are so unlike the Discourses in
+
+style and content that, even if we did not have his word for it, we
+would be unlikely to conclude that they were products of the same
+hand. Arrian published his edition of the Discourses soon after
+Epictetus died, and an unauthorized edition had already been in
+circulation; so other of Epictetus’ students were in a position to
+judge how faithful Arrian was to the actual words of the master; and
+we have no record of anyone impugning their essential honesty. On
+the contrary, Arrian’s collection was accepted immediately as an
+authentic and de nitive record of Epictetus’ thought, and even
+though Arrian was responsible for actually writing the book,
+Epictetus is conventionally, and rightly, treated as their author.
+Even if we cannot be sure that Epictetus actually said everything
+attributed to him in the Discourses, or in those exact words, we have
+no reason to doubt that the bulk of the material does derive from
+what Arrian and others heard while seated at the master’s feet.
+
+BIOGRAPHY
+Details of Epictetus’ life are sketchy; the Discourses themselves are
+our richest source of information. We can only make an educated
+guess as to the year he was born and the year he died, but are not
+likely to be far wrong in giving his dates as c.AD 55–135. We know
+that he was born into slavery because he tells us so, and from an
+ancient inscription we learn that his mother had been a slave. The
+place of his birth was Hierapolis, a major Graeco-Roman city in
+what today is south-western Turkey. The native language there was
+Greek – the Koine or ‘common’ Greek that derived from the
+language of classical Athens, but became widely disseminated in a
+simpli ed form during the Hellenistic era. The Discourses are a
+principal source for our knowledge of Koine Greek (as is the Greek
+New Testament, to cite another example).
+More than once Epictetus refers to himself as ‘a lame old man’,
+but nowhere elaborates on the cause of his disability. Two traditions
+
+independent of the Discourses give competing accounts. Early
+Christian authors report that a sadistic master was responsible for
+rendering him crippled for life. But others interpret ‘lame old man’
+as almost a pleonastic phrase, which is to say that he may have
+su ered from rheumatism or arthritis as a natural consequence of
+advancing age. The latter explanation is in fact the more likely. We
+know who his owner was; his name was Epaphroditus, and Epictetus
+makes mention of him several times, not exactly in complimentary
+terms, but not with any hint of bitterness either. Epaphroditus is
+famous for more than just being Epictetus’ master. A former slave
+himself, after manumission he rose to the position of Nero’s
+secretary in charge of petitions; later he would serve Domitian in
+the same capacity. Descriptions of life at court frequently appear in
+the Discourses, in terms detailed and vivid enough to suggest that his
+service to Epaphroditus acquainted Epictetus at rst hand with the
+manners, routines and attitudes of the emperor and his courtiers.
+We can go further and speculate that in this equivocal position – a
+slave on the one hand, but also a privileged member of the
+emperor’s inner circle – Epictetus came to appreciate in full the
+ambiguities of power, and learned to distinguish real freedom from
+counterfeit. This dialectic of freedom and slavery colours much of
+his presentation of Stoic thought.
+That Epaphroditus allowed Epictetus considerable freedom of
+movement and association is implied by his attendance at the
+lectures of Musonius Rufus. Tacitus, a contemporary Roman
+historian (c.AD 56-c. 117), describes Musonius as the foremost Stoic
+of his day. We are fortunate that a sample of his lectures was
+included in an anthology of morally edifying readings, known as the
+Suda, which still survives. Musonius gives lessons in practical ethics,
+on particular questions such as whether women should be allowed
+to study philosophy, and what relationship ideally obtains between
+a husband and wife. While he does not engage the same topics,
+Epictetus in his Discourses displays a similar focus and orientation.
+Both men concentrate on ethics to the virtual exclusion of physics
+(cosmological speculation) and logic. Logic and physics feature in
+
+the Discourses, to be sure, but typically in an ancillary or illustrative
+role. And neither one gets caught up in ethical theorizing; they
+always treat ethics with a view to applying it in real life. Reading
+books and becoming uent in the doctrines of philosophers are
+deprecated as ends in themselves. Even more than Musonius,
+Epictetus has a plain and practical agenda: he wants his students to
+make a clean break with received patterns of thinking and behaving,
+to reject popular morality and put conventional notions of good and
+bad behind them; in short, he aims to inspire in his readers
+something like a religious conversion, only not by appeal to any
+articles of faith or the promise of life in the hereafter (Stoics did not
+believe in the afterlife), but by appeal to reason alone.
+Epaphroditus granted Epictetus his freedom – precisely when we
+don’t know – but from then on he devoted his life to the practice
+and preaching of philosophy. When Domitian, suspecting them of
+republican sympathies, in ad 95 ordered all the philosophers in Italy
+to pack up and leave, Epictetus turned this insult to account by
+moving to Greece and founding his school there (in a spot where he
+had probably little to fear in the way of competition). Nicopolis, the
+site he chose, was a Roman colony founded by the emperor
+Augustus to commemorate his victory over Antony and Cleopatra. It
+functioned as the de facto capital of the province of Epirus. The site
+had other advantages; it was on the Adriatic coast, making it easy of
+access for prospective students from Italy. The student body drew
+mainly from upper-class Roman families who admired Greek culture
+and were particularly keento taste of the accumulated wisdom of
+the Greek philosophers. We have no information as to how long
+students typically stayed at Nicopolis under Epictetus’ tutelage, but
+it was probably no more than a year or two. The school, in any case,
+was a success, and when its reputation attracted the attention of the
+emperor Hadrian (more kindly disposed toward philosophy than his
+predecessor), he honoured it, and its founder, with a personal visit.
+Tradition has it that late in life Epictetus retired from teaching
+introduction and withdrew to the peace and quiet of family life,
+under conditions imposed by old age: that is, he became a parent by
+
+adopting rather than fathering a child, and took into his home a
+female servant to serve as a kind of surrogate mother to the child
+and domestic servant for himself. That he had absented himself from
+family life for so long shows that he regarded philosophy as a
+jealous mistress who demanded practically all his time and
+attention, which family life would not allow. That this renunciation
+of family life represented a real sacri ce is suggested by the fact that
+he took to it immediately upon retiring. He evidently thought he
+had earned the comforts of home after devoting most of his life to
+improving the lives of others – the successive generations of
+students who had passed through his school. We have no more news
+of Epictetus beyond this. After creating this version of a family he
+was evidently content to settle into it and live out the balance of his
+years in obscurity.
